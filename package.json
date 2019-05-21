@@ -1,8 +1,8 @@
 {
-  "name": "docsify-themeable",
+  "name": "The Language of Art",
   "version": "0.7.2",
   "description": "A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).",
-  "author": "John Hildenbiddle",
+  "author": "Tom Hackshaw",
   "license": "MIT",
   "homepage": "https://jhildenbiddle.github.io/docsify-themeable/",
   "repository": {
