@@ -1,6 +1,6 @@
-# docsify-themeable
+# The Language of Art
 
-> A delightfully simple theme system for [docsify.js](https://docsify.js.org)
+> A wiki containing some of the key terms and examples related to art history
 
 - Based on CSS custom properties
 - No packages to install or files to build
@@ -9,5 +9,4 @@
 - Legacy browser support (IE10+)
 
 [Get Started](introduction)
-[Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-[GitHub](https://github.com/jhildenbiddle/docsify-themeable)
+
